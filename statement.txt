@@ -1,0 +1,17 @@
+Summary
+The goal of this tool is to enable users to perform “Calendar Audit.” The purpose of
+this audit is to help users to track how much time they are spending on meetings, and
+if they are conducting the right meetings and spending their time on the right goals.
+This tool will look at a user's calendar and generate a report detailing the time spent
+by the user.
+
+Requirements
+This tool will work with Google Calendar. The tool should read the user’s primary
+calendar and generate a report which can be printed to console or displayed on an
+HTML page or API based. Following are some of the metrics that can be shown. You
+should print at least two of the following metrics. You can consider additional metrics.
+1. Total time spent in meetings per month for the last 3 months
+2. Busiest week / relaxed week - Which month had the highest number of meetings/least number of meetings
+3. Average number of meetings per week, average time spent every week in meetings.
+4. Top 3 persons with whom you have meetings
+5. Time spent in Recruiting/Conducting interviews
